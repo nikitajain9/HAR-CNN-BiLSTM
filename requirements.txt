@@ -1,0 +1,11 @@
+# Web Server
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart
+
+# Machine Learning & Data
+numpy==1.26.4
+pandas==2.2.0
+scikit-learn==1.4.0
+joblib==1.3.2
+tensorflow-cpu==2.15.0

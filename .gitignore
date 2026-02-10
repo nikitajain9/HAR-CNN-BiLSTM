@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Environments
+.conda/
+env/
+dl_env/
+
+# OS
+.DS_Store
